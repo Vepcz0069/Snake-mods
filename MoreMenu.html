@@ -1,0 +1,11 @@
+<!DOCTYPE NETSCAPE-Bookmark-file-1>
+<!-- This is an automatically generated file.
+     It will be read and overwritten.
+     DO NOT EDIT! -->
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+<TITLE>Bookmarks</TITLE>
+<H1>Bookmarks</H1>
+<DL><p>
+    <DT><H3 ADD_DATE="1543535897" LAST_MODIFIED="1616635351" PERSONAL_TOOLBAR_FOLDER="true">Bookmarks bar</H3>
+    <DT><A HREF="javascript: req = new XMLHttpRequest(); req.open('GET', 'https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeCustomMenuStuff/main/custom.js'); req.onload = function() { eval(this.responseText + 'snake.more_menu();'); }; req.send();" ADD_DATE="1616868685">More Menu Stuff</A>
+</DL><p>
